@@ -2,7 +2,7 @@
   "name": "react-thrift",
   "version": "0.0.1",
   "description": "A simple Thrift service for prerendering React Components on the server-side using nodejs.",
-  "main": "client.js",
+  "main": "index.js",
   "directories": {
     "example": "example"
   },
