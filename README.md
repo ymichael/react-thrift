@@ -11,7 +11,7 @@ service ReactThrift {
 ```
 
 ## Usage
-1. Register React components and start server.
+- Register React components and start server.
 
 ```js
 var s = new Server();
@@ -21,7 +21,7 @@ s.registerComponent("BuggyComponent", BuggyComponent);
 s.listen(9090);
 ```
 
-2. Use whatever server-side language to make RPC to said server.
+- Use whatever server-side language to make RPC to said server.
 
 
 ## Credits
